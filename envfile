@@ -1,0 +1,15 @@
+MONGO_URL=
+PORT=8080
+BASE_URL=http://localhost:8080
+APP_EMAIL=
+# google app email & password
+EMAIL=ammuftau74@gmail.com
+PASSWORD=lrxqtclrtsxcvmbi
+# jwt secrets
+SECRET=AlwaysMakeYourPasswordStrongANDSIMPLE
+REFRESH_SECRET=AlwaysMakeYourPasswordfRESHANDSIMPLE
+#cloudinary
+CLOUDINARY_API_NAME=d
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+MONNIFY_BASE_URL=https://sandbox.monnify.com
